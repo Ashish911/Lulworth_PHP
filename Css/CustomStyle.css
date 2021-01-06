@@ -1,0 +1,517 @@
+
+/*Call-to-action*/
+#call-to-action{
+  padding: 60px;
+  background: url(../Img/thunderstorm.jpg) center center no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+  background-attachment: fixed;
+}
+/*Call-to-action*/
+
+/*Newsletter*/
+#Newssubscribe {
+  padding: 60px;
+  background: url(../Img/sky.jpg) center center no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+  background-attachment: fixed;
+}
+
+#Newssubscribe .section-header h2,
+#Newssubscribe p {
+  color: #fff;
+}
+
+#Newssubscribe input {
+  background: #fff;
+  color: #060c22;
+  border: 0;
+  outline: none;
+  margin: 0;
+  padding: 9px 20px;
+  border-radius: 50px;
+  font-size: 14px;
+}
+
+#Newssubscribe button {
+  border: 0;
+  padding: 9px 25px;
+  cursor: pointer;
+  background: #28a745;
+  color: #fff;
+  transition: all 0.3s ease;
+  outline: none;
+  font-size: 14px;
+  border-radius: 50px;
+}
+
+#Newssubscribe button:hover {
+  background-color:#208537;
+  transition:background-color .3s ease;
+}
+/*Newsletter*/
+
+#TestimonialsI{
+  background: url(../Img/Thunder.jpg) center center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/*Upcoming Events*/
+.Upcoming-Events .container .img-fluid{
+  border-radius: 10px;
+}
+
+/*Upcoming Events*/
+
+/*Footer*/
+
+.page-footer{
+  background-color: #343a40;
+}
+
+.list-unstyled li a{
+  color: white;
+  padding: 2px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.list-unstyled li a:hover{
+  background-color: #28a745;
+  color: white;
+  transition:background-color .3s ease-in-out;
+}
+
+/* Footer Social Media Buttons*/
+.fa:hover{
+  opacity: 0.7;
+}
+
+.fa-facebook{
+  background-color: #3B5998;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-twitter{
+  background: #55ACEE;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-google{
+  background: #dd4b39;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-instagram{
+  background: rgb(228, 64, 95);
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.list-unstyled .list-inline-item .fa-facebook:hover{
+  background-color: #3B5998;
+  color: white;
+}
+
+.list-unstyled .list-inline-item .fa-twitter:hover{
+  background: #55ACEE;
+  color: white;
+}
+
+.list-unstyled .list-inline-item .fa-google:hover{
+  background: #dd4b39;
+  color: white;
+}
+
+.list-unstyled .list-inline-item .fa-instagram:hover{
+  background: rgb(228, 64, 95);
+  color: white;
+}
+/* Footer Social Media Buttons*/
+
+/* Footer */
+
+/*Form wrapper and padding*/
+
+.padding-t-L {
+  padding-top: 152px;
+}
+
+.wrapper {
+  margin: 0 auto;
+}
+
+.wrapper--L {
+  width: 300px;
+  height: 370px;
+}
+
+.padding-t-a {
+  padding-top: 100px;
+}
+
+.padding-b-a {
+  padding-bottom: 100px;
+}
+
+.wrapper {
+  margin: 0 auto;
+}
+
+.wrapper--a {
+  max-width: 650px;
+}
+
+.wrapper--ad {
+  max-width: 500px;
+}
+
+.padding-ab{
+  padding-top: 50px;
+}
+
+.wrapper--ab {
+  max-width: 400px;
+}
+
+
+
+/*Login Form*/
+
+.bg-gradiant-ab {
+  background: -webkit-gradient(linear, left bottom, right top, from(#524A4A), to(#A89C9C));
+}
+
+.input--style-L {
+  line-height: 50px;
+  background: #fafafa;
+  box-shadow: inset 0px 1px 3px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  padding: 0 20px;
+  font-size: 15px;
+  color: black;
+}
+
+.button-panel-L{
+  margin-bottom: 20px;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.button-panel-L .button{
+ background : #00b6df;
+ border: none;
+ color: #fff;
+ cursor: pointer;
+ height: 50px;
+ font-family: 'helvetica','Open Sans', sans-serif;
+ font-size: 1.2em;
+ text-align: center;
+ text-transform: uppercase;
+ transition: background 0.6s linear;
+ width: 90%;
+ margin-left: 13px;
+ margin-top:10px;
+ border-radius: 2px;
+}
+
+.button:hover{
+  background: #6eb7cb;
+}
+
+.reminder--L{
+  text-align: center;
+}
+
+.reminder--L a{
+  color: Red;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.reminder--L a:hover{
+  color: #00b6df;
+}
+
+/* Login Form*/
+
+/*Signup Form and Add Forms*/
+
+.bg-gradiant-a {
+  background: -webkit-gradient(linear, left bottom, right top, from(#524A4A), to(#A89C9C));
+}
+
+input {
+  margin: 0;
+  border: none;
+  box-shadow: none;
+  width: 100%;
+  font-size: 14px;
+}
+
+.input--style-a {
+  line-height: 50px;
+  background: #fafafa;
+  box-shadow: inset 0px 1px 3px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  padding: 0 20px;
+  font-size: 15px;
+  color: black;
+}
+
+.label {
+  font-size: 16px;
+  color: #555;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group {
+  position: relative;
+  margin-bottom: 22px;
+}
+
+.title {
+  font-size: 24px;
+  color: #525252;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+
+.card {
+  border-radius: 3px;
+  background: #fff;
+}
+
+.card-4 {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+}
+
+.card-4 .card-body {
+  padding: 57px 65px;
+  padding-bottom: 65px;
+}
+
+@media (max-width: 767px) {
+  .card-4 .card-body {
+    padding: 50px 40px;
+  }
+}
+
+.textarea--style-a {
+  background: transparent;
+  line-height: 23px;
+  border: 1px solid black;
+  width: 100%;
+  min-height: 120px;
+  border-radius: 2px;
+  color: black;
+  font-size: 15px;
+  padding-left: 10px;
+}
+
+.button--panel-2{
+  margin-bottom: 10px;
+  padding-top: 5px;
+  width: 100%;
+}
+
+.button--panel-2 .button{
+ background : #00b6df;
+ border: none;
+ color: #fff;
+ cursor: pointer;
+ height: 50px;
+ font-family: 'helvetica','Open Sans', sans-serif;
+ font-size: 1.2em;
+ text-align: center;
+ text-transform: uppercase;
+ transition: background 0.6s linear;
+ width: 100%;
+ margin-top:10px;
+ border-radius: 2px;
+}
+
+.button--panel-2 .button:hover{
+  background: #6eb7cb;
+}
+
+/*Signup Form and add forms*/
+
+/*Contact Form*/
+
+.padding-t-C {
+  padding-top: 10px;
+}
+
+.padding-b-C {
+
+  padding-bottom: 155px;
+}
+
+.input-group {
+  position: relative;
+  margin-bottom: 22px;
+}
+
+.input--style-C {
+  line-height: 50px;
+  background: #fafafa;
+  box-shadow: inset 0px 1px 3px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  padding: 0 20px;
+  font-size: 15px;
+  color: black;
+}
+
+.textarea--style-C {
+  background: transparent;
+  line-height: 23px;
+  border: 1px solid black;
+  width: 100%;
+  min-height: 80px;
+  border-radius: 2px;
+  color: black;
+  font-size: 15px;
+  padding-left: 10px;
+}
+
+.button--panel-C{
+  margin-bottom: 20px;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.button--panel-C .button{
+ background : #00b6df;
+ border: none;
+ color: #fff;
+ cursor: pointer;
+ height: 50px;
+ font-family: 'helvetica','Open Sans', sans-serif;
+ font-size: 1.2em;
+ text-align: center;
+ text-transform: uppercase;
+ transition: background 0.6s linear;
+ width: 90%;
+ margin-left: 13px;
+ margin-top:10px;
+ border-radius: 2px;
+}
+
+.button:hover{
+  background: #6eb7cb;
+}
+
+/* Admin Panel */
+
+.Class-U--UI .Class-UI--UI{
+  overflow-x:auto;
+}
+
+.table--UI{
+background-color: white;
+width: 100%;
+border: 1px solid #ddd;
+}
+
+.table--UI th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+.table--UI tr:nth-child(even){background-color: #f2f2f2}
+</style>
+</head>
+<body>
+
+
+/* Admin Panel */
+
+.pdap .vape-aa {
+  max-width: 650px;
+}
+
+.input--style-ad{
+  line-height: 50px;
+  background: #fafafa;
+  box-shadow: inset 0px 1px 3px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  padding: 0 20px;
+  font-size: 15px;
+  color: black;
+}
+
+.textarea--style-ad{
+  background: transparent;
+  line-height: 23px;
+  border: 1px solid black;
+  width: 100%;
+  min-height: 80px;
+  border-radius: 2px;
+  color: black;
+  font-size: 15px;
+  padding-left: 10px;
+}
+
+.button--panel-ad{
+  margin-bottom: 20px;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.button--panel-ad .button{
+ background : #00b6df;
+ border: none;
+ color: #fff;
+ cursor: pointer;
+ height: 50px;
+ font-family: 'helvetica','Open Sans', sans-serif;
+ font-size: 1.2em;
+ text-align: center;
+ text-transform: uppercase;
+ transition: background 0.6s linear;
+ width: 90%;
+ margin-left: 13px;
+ margin-top:10px;
+ border-radius: 2px;
+}
+
+.button:hover{
+  background: #6eb7cb;
+}
+
+/*Admin Panel*/
